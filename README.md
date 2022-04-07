@@ -11,7 +11,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buinghiemtrang&theme=tokyonight&layout=&langs_count=4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=buinghiemtrang&repo=Git-Readme>
+
 <img src="https://github-readme-stats.vercel.app/api?username=buinghiemtrang&theme=tokyonight&show_icons=true&count_private=true">
 <!---
 buinghiemtrang/buinghiemtrang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
