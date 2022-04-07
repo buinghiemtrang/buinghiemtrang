@@ -5,6 +5,8 @@
 - 📫 You can contact me by email buinghiemtrang@gmail.com or Facebook https://www.facebook.com/buinghiemtrang/
 - Wish you a good day ✨✨✨
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 <!---
 buinghiemtrang/buinghiemtrang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
