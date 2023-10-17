@@ -9,9 +9,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buinghiemtrang&theme=tokyonight&layout=&langs_count=4">
-
 <img src="https://github-readme-stats.vercel.app/api?username=buinghiemtrang&theme=tokyonight&show_icons=true&count_private=true">
 <!---
 buinghiemtrang/buinghiemtrang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
