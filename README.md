@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bui Nghiem Trang
 - 👀 I’m interested in information technology
 - 🌱 I’m currently learning College
-- 💞️ I’m Single
 - 📫 You can contact me by email buinghiemtrang@gmail.com or Facebook https://www.facebook.com/buinghiemtrang/
 - Wish you a good day ✨✨✨
 
